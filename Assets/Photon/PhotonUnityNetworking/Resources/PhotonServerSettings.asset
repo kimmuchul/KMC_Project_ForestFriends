@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: f22eda37-3ee7-43d1-a4c5-c7d6ae8e0fba
+    AppIdFusion: 
+    AppIdChat: ba57bcf2-db08-454a-8792-62b2e9953751
+    AppIdVoice: f0f41b5a-4a33-42ec-8132-e18de16b81a7
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - ChangeScene
+  - DestroySpaceship
+  - Fire
+  - InGame
+  - Initialize
+  - PlayerListUIUpdate
+  - RespawnSpaceship
+  - UpdateWappen
+  - OnAnimatorIK
+  - ChatRPC
+  - toggling
+  - SpawnPlayer
+  - TurnOnCamera
+  - SendDes
+  - CheckRPC
+  - ReceiveLiarInfo
+  - RPC_StartCountdown
+  - ImageReadyCheck
+  - MyPresentPhase
+  - EndPlayerTurn
+  - PanelActive
+  - AllocateCurPlayer
+  - ReceiveKeywordAndDescription
+  - RPC_FocusCamera
+  - RPC_ToggleVoteCanvas
+  - RPC_UpdateVoteUI
+  - RPC_VoteChanged
+  - AddToChatHistory
+  - SetupPlayers
+  - ShowMessage
+  - UpdateTurn
+  - AddVote
+  - MinusVote
+  - PutAnswer
+  - LiarLose
+  - LiarWin
+  - AnswerInputFill
+  - ResetEverySystem
+  - submitanswerTrue
+  - PlayAnimationRPC
+  - AllocateAllPlayer
+  - CheckInfo
+  - SyncPoint
+  - SyncronizePoints
+  - SynchronizePoints
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

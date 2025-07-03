@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/OutdoorsScene.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 0
+    path: Assets/Scenes/BSH/Product_1_Start.unity
+    guid: de04a56cb4060b4418b1539956d4ca68
+  - enabled: 0
+    path: Assets/Scenes/BSH/Product_1_Lobby.unity
+    guid: 24c3d42df50e9bb40a255c75bf5f4a0e
+  - enabled: 0
+    path: Assets/Scenes/KMC/GameKMC.unity
+    guid: 584dc17e01ec44748a22e5780daf8a7c
+  - enabled: 1
+    path: Assets/Scenes/Product_2_Start.unity
+    guid: 20e84faedbf85924aa0081194e63b96c
+  - enabled: 1
+    path: Assets/Scenes/BSH/Product_2_Lobby.unity
+    guid: 1f30bb8b4c281f843b275d63ec96a0bb
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 110a11c5bab5eb14bac9873449f14a29
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
+  m_UseUCBPForAssetBundles: 0
